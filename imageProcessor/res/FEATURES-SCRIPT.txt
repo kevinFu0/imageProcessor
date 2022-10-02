@@ -1,0 +1,33 @@
+load res/Bumblebee.png Bumblebee
+save res/Bumblebee.ppm Bumblebee
+save res/Bumblebee.bmp Bumblebee
+save res/Bumblebee.jpg Bumblebee
+blur Bumblebee Bumblebee-blurred
+save res/Bumblebee-blurred.png Bumblebee-blurred
+sharpen Bumblebee Bumblebee-sharpened
+save res/Bumblebee-sharpened.png Bumblebee-sharpened
+greyscale Bumblebee Bumblebee-gs
+save res/Bumblebee-gs.png Bumblebee-gs
+sepia Bumblebee Bumblebee-sepia
+save res/Bumblebee-sepia.png Bumblebee-sepia
+brighten 50 Bumblebee Bumblebee-brighter-by-50
+save res/Bumblebee-brighter-by-50.png Bumblebee-brighter-by-50
+darken 50 Bumblebee Bumblebee-darker-by-50
+save res/Bumblebee-darker-by-50.png Bumblebee-darker-by-50
+vertical-flip Bumblebee Bumblebee-vertical
+save res/Bumblebee-vertical.png Bumblebee-vertical
+horizontal-flip Bumblebee Bumblebee-horizontal
+save res/Bumblebee-horizontal.png Bumblebee-horizontal
+visualize-value Bumblebee Bumblebee-value
+save res/Bumblebee-value.png Bumblebee-value
+visualize-intensity Bumblebee Bumblebee-intensity
+save res/Bumblebee-intensity.png Bumblebee-intensity
+visualize-luma Bumblebee Bumblebee-luma
+save res/Bumblebee-luma.png Bumblebee-luma
+visualizeRGB red Bumblebee Bumblebee-red-gs
+save res/Bumblebee-red-gs.png Bumblebee-red-gs
+visualizeRGB green Bumblebee Bumblebee-green-gs
+save res/Bumblebee-green-gs.png Bumblebee-green-gs
+visualizeRGB blue Bumblebee Bumblebee-blue-gs
+save res/Bumblebee-blue-gs.png Bumblebee-blue-gs
+q
